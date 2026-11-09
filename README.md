@@ -1,2 +1,2 @@
 # Pandas
-practice of data analysis
+practice of data analysis & BI
